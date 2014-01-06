@@ -1,0 +1,13 @@
+C:\Users\1123050\Documents\GitHub\kinect\group\Team_project_F\test2 syuusei\MyKinectTool_\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\1123050\Documents\GitHub\kinect\group\Team_project_F\test2 syuusei\MyKinectTool_\obj\x86\Debug\MainWindow.baml
+C:\Users\1123050\Documents\GitHub\kinect\group\Team_project_F\test2 syuusei\MyKinectTool_\obj\x86\Debug\MainWindow.g.cs
+C:\Users\1123050\Documents\GitHub\kinect\group\Team_project_F\test2 syuusei\MyKinectTool_\obj\x86\Debug\App.g.cs
+C:\Users\1123050\Documents\GitHub\kinect\group\Team_project_F\test2 syuusei\MyKinectTool_\obj\x86\Debug\MyKinectTool__MarkupCompile.cache
+C:\Users\1123050\Documents\GitHub\kinect\group\Team_project_F\test2 syuusei\MyKinectTool_\obj\x86\Debug\MyKinectTool_.g.resources
+C:\Users\1123050\Documents\GitHub\kinect\group\Team_project_F\test2 syuusei\MyKinectTool_\obj\x86\Debug\MyKinectTool_.Properties.Resources.resources
+C:\Users\1123050\Documents\GitHub\kinect\group\Team_project_F\test2 syuusei\MyKinectTool_\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\1123050\Documents\GitHub\kinect\group\Team_project_F\test2 syuusei\MyKinectTool_\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\1123050\Documents\GitHub\kinect\group\Team_project_F\test2 syuusei\MyKinectTool_\bin\Debug\MyKinectTool_.exe
+C:\Users\1123050\Documents\GitHub\kinect\group\Team_project_F\test2 syuusei\MyKinectTool_\bin\Debug\MyKinectTool_.pdb
+C:\Users\1123050\Documents\GitHub\kinect\group\Team_project_F\test2 syuusei\MyKinectTool_\obj\x86\Debug\MyKinectTool_.exe
+C:\Users\1123050\Documents\GitHub\kinect\group\Team_project_F\test2 syuusei\MyKinectTool_\obj\x86\Debug\MyKinectTool_.pdb
